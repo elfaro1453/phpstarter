@@ -1,0 +1,17 @@
+{
+    "name": "elfaro1453/phpstarter",
+    "description": "Starter pack untuk belajar PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "elfaro1453",
+            "email": "54815985+elfaro1453@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.5",
+        "friendsofphp/php-cs-fixer": "^2.18"
+    }
+}
